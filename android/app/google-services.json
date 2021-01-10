@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "853077178499",
+    "project_id": "ebuddy-28eec",
+    "storage_bucket": "ebuddy-28eec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853077178499:android:c5aca8c5751baba1dc43b6",
+        "android_client_info": {
+          "package_name": "com.lsharma11.EbuddyApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853077178499-u1s8s123k3rsdd1582328olapocnn9n4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgqsPbJLorgl1pDtoi6vljPq-K6HZZmwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853077178499-u1s8s123k3rsdd1582328olapocnn9n4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
